@@ -1,0 +1,859 @@
+PMID- 34328424
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210825
+IS  - 2291-9694 (Print)
+IS  - 2291-9694 (Electronic)
+IS  - 2291-9694 (Linking)
+VI  - 9
+IP  - 7
+DP  - 2021 Jul 30
+TI  - The Fast Health Interoperability Resources (FHIR) Standard: Systematic Literature 
+      Review of Implementations, Applications, Challenges and Opportunities.
+PG  - e21929
+LID - 10.2196/21929 [doi]
+LID - e21929
+AB  - BACKGROUND: Information technology has shifted paper-based documentation in the 
+      health care sector into a digital form, in which patient information is 
+      transferred electronically from one place to another. However, there remain 
+      challenges and issues to resolve in this domain owing to the lack of proper 
+      standards, the growth of new technologies (mobile devices, tablets, ubiquitous 
+      computing), and health care providers who are reluctant to share patient 
+      information. Therefore, a solid systematic literature review was performed to 
+      understand the use of this new technology in the health care sector. To the best 
+      of our knowledge, there is a lack of comprehensive systematic literature reviews 
+      that focus on Fast Health Interoperability Resources (FHIR)-based electronic 
+      health records (EHRs). In addition, FHIR is the latest standard, which is in an 
+      infancy stage of development. Therefore, this is a hot research topic with great 
+      potential for further research in this domain. OBJECTIVE: The main aim of this 
+      study was to explore and perform a systematic review of the literature related to 
+      FHIR, including the challenges, implementation, opportunities, and future FHIR 
+      applications. METHODS: In January 2020, we searched articles published from 
+      January 2012 to December 2019 via all major digital databases in the field of 
+      computer science and health care, including ACM, IEEE Explorer, Springer, Google 
+      Scholar, PubMed, and ScienceDirect. We identified 8181 scientific articles 
+      published in this field, 80 of which met our inclusion criteria for further 
+      consideration. RESULTS: The selected 80 scientific articles were reviewed 
+      systematically, and we identified open questions, challenges, implementation 
+      models, used resources, beneficiary applications, data migration approaches, and 
+      goals of FHIR. CONCLUSIONS: The literature analysis performed in this systematic 
+      review highlights the important role of FHIR in the health care domain in the 
+      near future.
+CI  - ©Muhammad Ayaz, Muhammad F Pasha, Mohammed Y Alzahrani, Rahmat Budiarto, Deris 
+      Stiawan. Originally published in JMIR Medical Informatics 
+      (https://medinform.jmir.org), 30.07.2021.
+FAU - Ayaz, Muhammad
+AU  - Ayaz M
+AUID- ORCID: 0000-0002-7828-8337
+AD  - Malaysia School of Information Technology, Monash University, Bandar Sunway, 
+      Malaysia.
+FAU - Pasha, Muhammad F
+AU  - Pasha MF
+AUID- ORCID: 0000-0002-9848-8950
+AD  - Malaysia School of Information Technology, Monash University, Bandar Sunway, 
+      Malaysia.
+FAU - Alzahrani, Mohammed Y
+AU  - Alzahrani MY
+AUID- ORCID: 0000-0002-9726-6088
+AD  - Information Technology Department, College of Computer Science & Information 
+      Technology, Albaha University, Albaha, Saudi Arabia.
+FAU - Budiarto, Rahmat
+AU  - Budiarto R
+AUID- ORCID: 0000-0002-6374-4731
+AD  - Informatics Department, Faculty of Science & Technology, Universitas Alazhar 
+      Indonesia, Jakarta, Indonesia.
+FAU - Stiawan, Deris
+AU  - Stiawan D
+AUID- ORCID: 0000-0002-9302-1868
+AD  - Department of Computer Engineering, Faculty of Computer Science, Universitas 
+      Sriwijaya, Palembang, Indonesia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210730
+PL  - Canada
+TA  - JMIR Med Inform
+JT  - JMIR medical informatics
+JID - 101645109
+EIN - JMIR Med Inform. 2021 Aug 17;9(8):e32869. doi: 10.2196/32869. PMID: 34403353
+PMC - PMC8367140
+OTO - NOTNLM
+OT  - CDA
+OT  - EHR
+OT  - FHIR
+OT  - Fast Health Interoperability Resources
+OT  - HL7
+OT  - SMART
+OT  - Substitutable Medical Applications Reusable Technologies
+OT  - clinical document architecture
+OT  - electronic health record
+OT  - health standard
+OT  - systematic literature review
+COIS- Conflicts of Interest: None declared.
+EDAT- 2021/07/31 06:00
+MHDA- 2021/07/31 06:01
+PMCR- 2021/07/30
+CRDT- 2021/07/30 12:16
+PHST- 2020/06/29 00:00 [received]
+PHST- 2021/05/31 00:00 [accepted]
+PHST- 2020/09/22 00:00 [revised]
+PHST- 2021/07/30 12:16 [entrez]
+PHST- 2021/07/31 06:00 [pubmed]
+PHST- 2021/07/31 06:01 [medline]
+PHST- 2021/07/30 00:00 [pmc-release]
+AID - v9i7e21929 [pii]
+AID - 10.2196/21929 [doi]
+PST - epublish
+SO  - JMIR Med Inform. 2021 Jul 30;9(7):e21929. doi: 10.2196/21929.
+
+PMID- 38025292
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231201
+IS  - 2229-3485 (Print)
+IS  - 2229-5488 (Electronic)
+IS  - 2229-3485 (Linking)
+VI  - 14
+IP  - 4
+DP  - 2023 Oct-Dec
+TI  - Electronic health record interoperability using FHIR and blockchain: A 
+      bibliometric analysis and future perspective.
+PG  - 161-166
+LID - 10.4103/picr.picr_272_22 [doi]
+AB  - Electronic health records (EHRs) constitute vital statistics, current health 
+      condition, ongoing therapies, and patient data; hence, their interoperability 
+      could be useful for epidemiologic and clinical research. Fast Healthcare 
+      Interoperability Resources (FHIR) and blockchain are currently "in-use" and 
+      tested for exchange of such data. The annual scientific production of 
+      publications for both FHIR and blockchain shows steady growth. The data 
+      interoperability and electronic data interchange have been introduced in the 
+      field of EHR in 2020, hence inferring that data interoperability is relatively a 
+      new domain. The thematic mapping suggested "interoperability" of EHR is 
+      well-developed and important for the structure of the research field.
+CI  - Copyright: © 2023 Perspectives in Clinical Research.
+FAU - Anand, Gaurav
+AU  - Anand G
+AD  - Medical Writing, Tata Consultancy Services, Noida, Uttar Pradesh, India.
+FAU - Sadhna, Divya
+AU  - Sadhna D
+AD  - Medical Writing, Tata Consultancy Services, Noida, Uttar Pradesh, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230626
+PL  - India
+TA  - Perspect Clin Res
+JT  - Perspectives in clinical research
+JID - 101551517
+PMC - PMC10679575
+OTO - NOTNLM
+OT  - Data extraction
+OT  - electronic health records
+OT  - healthcare
+OT  - interoperability
+COIS- There are no conflicts of interest.
+EDAT- 2023/11/29 18:41
+MHDA- 2023/11/29 18:42
+PMCR- 2023/10/01
+CRDT- 2023/11/29 16:26
+PHST- 2022/12/26 00:00 [received]
+PHST- 2023/03/13 00:00 [revised]
+PHST- 2023/03/15 00:00 [accepted]
+PHST- 2023/11/29 18:42 [medline]
+PHST- 2023/11/29 18:41 [pubmed]
+PHST- 2023/11/29 16:26 [entrez]
+PHST- 2023/10/01 00:00 [pmc-release]
+AID - PCR-14-161 [pii]
+AID - 10.4103/picr.picr_272_22 [doi]
+PST - ppublish
+SO  - Perspect Clin Res. 2023 Oct-Dec;14(4):161-166. doi: 10.4103/picr.picr_272_22. 
+      Epub 2023 Jun 26.
+
+PMID- 36762126
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230211
+IS  - 2574-2531 (Electronic)
+IS  - 2574-2531 (Linking)
+VI  - 6
+IP  - 1
+DP  - 2023 Apr
+TI  - Interoperability with multiple Fast Healthcare Interoperability Resources 
+      (FHIR(®)) profiles and versions.
+PG  - ooad001
+LID - 10.1093/jamiaopen/ooad001 [doi]
+LID - ooad001
+AB  - OBJECTIVE: To provide a method for evaluating the interoperability of Fast 
+      Healthcare Interoperability Resources (FHIR(®)) clients and servers supporting 
+      different FHIR resources, profiles, and versions, and to determine the 
+      feasibility of FHIR servers supporting multiple FHIR Implementation Guides (IGs). 
+      MATERIALS AND METHODS: A method of analysis, the FHIR Interoperability Table 
+      (FHIT), is proposed. The FHIT involves the concept of a "catchment," the type or 
+      category of data that a profile is intended to represent. The solution first 
+      aligns sender and/or receiver profiles according to their catchments, then 
+      determines the relationship between the admittances of those profiles, and 
+      finally interprets the relationship in terms of the feasibility of data exchange. 
+      RESULTS: The FHIT method is demonstrated by analyzing the FHIR-based exchange 
+      between the US Core IG and the International Patient Summary IG. DISCUSSION: The 
+      last few years have witnessed a significant growth in Fast Healthcare 
+      Interoperability Resources (FHIR), resulting in several major versions of FHIR, 
+      hundreds of IGs, and thousands of FHIR profiles. Previous work and available 
+      tools have not fully addressed the problem of interoperability between clients 
+      and servers that support different FHIR resources, profiles, and versions. 
+      CONCLUSION: Application of the proposed methodology allows interoperability 
+      problems in FHIR networks to be identified. In some cases, new profiles that 
+      resolve those conflicts can be derived, using intersections of the original 
+      profiles. There is a need for additional tools that implement the proposed 
+      method, as well as structured methods for expressing catchments in FHIR profiles.
+CI  - © The MITRE Corporation 2023. All rights reserved. Approved for public release. 
+      Distribution unlimited 22-00367-11.
+FAU - Kramer, Mark A
+AU  - Kramer MA
+AD  - Health Innovation Center, MITRE Corporation, Bedford, Massachusetts, USA.
+FAU - Moesel, Chris
+AU  - Moesel C
+AD  - Open Health Solutions Department, MITRE Corporation, Bedford, Massachusetts, USA.
+LA  - eng
+PT  - Journal Article
+DEP - 20230207
+PL  - United States
+TA  - JAMIA Open
+JT  - JAMIA open
+JID - 101730643
+PMC - PMC9904180
+OTO - NOTNLM
+OT  - FHIR
+OT  - HL7
+OT  - health information exchange
+OT  - health information interoperability
+EDAT- 2023/02/11 06:00
+MHDA- 2023/02/11 06:01
+PMCR- 2023/02/07
+CRDT- 2023/02/10 03:20
+PHST- 2022/08/22 00:00 [received]
+PHST- 2022/12/17 00:00 [revised]
+PHST- 2023/01/03 00:00 [accepted]
+PHST- 2023/02/10 03:20 [entrez]
+PHST- 2023/02/11 06:00 [pubmed]
+PHST- 2023/02/11 06:01 [medline]
+PHST- 2023/02/07 00:00 [pmc-release]
+AID - ooad001 [pii]
+AID - 10.1093/jamiaopen/ooad001 [doi]
+PST - epublish
+SO  - JAMIA Open. 2023 Feb 7;6(1):ooad001. doi: 10.1093/jamiaopen/ooad001. eCollection 
+      2023 Apr.
+
+PMID- 34524029
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211001
+LR  - 20211001
+IS  - 1741-2811 (Electronic)
+IS  - 1460-4582 (Linking)
+VI  - 27
+IP  - 3
+DP  - 2021 Jul-Sep
+TI  - An HL7 FHIR and GraphQL approach for interoperability between heterogeneous 
+      Electronic Health Record systems.
+PG  - 14604582211043920
+LID - 10.1177/14604582211043920 [doi]
+AB  - Heterogeneities in data representation and care processes create interoperability 
+      complexity among Electronic Health Record systems (EHRs). We can resolve such 
+      data and process level heterogeneities by following consistent healthcare 
+      standards like Clinical Document Architecture (CDA), OpenEHR, and HL7 FHIR. 
+      However, these standards also differ at the structural and implementation level, 
+      making interoperability more complex. Hence, there is a need to investigate 
+      mechanisms that can resolve data level heterogeneity to achieve semantic data 
+      interoperability between heterogeneous systems. As a solution to this, we offer 
+      an architecture that utilizes a resource server based on GraphQL and HL7 FHIR 
+      that establishes communication between two heterogeneous EHRs. This paper 
+      describes how the proposed architecture is implemented to achieve 
+      interoperability between two heterogeneous EHRs, HL7 FHIR and OpenMRS. The 
+      presented approach establishes secure communication between the EHRs and provides 
+      accurate mappings that enable timely health information exchange between EHRs.
+FAU - Mukhiya, Suresh Kumar
+AU  - Mukhiya SK
+AUID- ORCID: 0000-0002-1813-7633
+AD  - Western Norway University of Applied Sciences, Norway.
+FAU - Lamo, Yngve
+AU  - Lamo Y
+AD  - Western Norway University of Applied Sciences, Norway.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Health Informatics J
+JT  - Health informatics journal
+JID - 100883604
+SB  - IM
+MH  - Computer Systems
+MH  - Delivery of Health Care
+MH  - Electronic Health Records
+MH  - *Health Information Exchange
+MH  - *Health Level Seven
+MH  - Humans
+OTO - NOTNLM
+OT  - HL7 FHIR
+OT  - OpenMRS
+OT  - authorization server
+OT  - health information exchange
+OT  - interoperability
+OT  - resource server
+EDAT- 2021/09/16 06:00
+MHDA- 2021/10/02 06:00
+CRDT- 2021/09/15 12:22
+PHST- 2021/09/15 12:22 [entrez]
+PHST- 2021/09/16 06:00 [pubmed]
+PHST- 2021/10/02 06:00 [medline]
+AID - 10.1177/14604582211043920 [doi]
+PST - ppublish
+SO  - Health Informatics J. 2021 Jul-Sep;27(3):14604582211043920. doi: 
+      10.1177/14604582211043920.
+
+PMID- 39316433
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240924
+LR  - 20250130
+IS  - 2291-9694 (Electronic)
+IS  - 2291-9694 (Linking)
+VI  - 12
+DP  - 2024 Sep 24
+TI  - State-of-the-Art Fast Healthcare Interoperability Resources (FHIR)-Based Data 
+      Model and Structure Implementations: Systematic Scoping Review.
+PG  - e58445
+LID - 10.2196/58445 [doi]
+LID - e58445
+AB  - BACKGROUND: Data models are crucial for clinical research as they enable 
+      researchers to fully use the vast amount of clinical data stored in medical 
+      systems. Standardized data and well-defined relationships between data points are 
+      necessary to guarantee semantic interoperability. Using the Fast Healthcare 
+      Interoperability Resources (FHIR) standard for clinical data representation would 
+      be a practical methodology to enhance and accelerate interoperability and data 
+      availability for research. OBJECTIVE: This research aims to provide a 
+      comprehensive overview of the state-of-the-art and current landscape in 
+      FHIR-based data models and structures. In addition, we intend to identify and 
+      discuss the tools, resources, limitations, and other critical aspects mentioned 
+      in the selected research papers. METHODS: To ensure the extraction of reliable 
+      results, we followed the instructions of the PRISMA-ScR (Preferred Reporting 
+      Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) 
+      checklist. We analyzed the indexed articles in PubMed, Scopus, Web of Science, 
+      IEEE Xplore, the ACM Digital Library, and Google Scholar. After identifying, 
+      extracting, and assessing the quality and relevance of the articles, we 
+      synthesized the extracted data to identify common patterns, themes, and 
+      variations in the use of FHIR-based data models and structures across different 
+      studies. RESULTS: On the basis of the reviewed articles, we could identify 2 main 
+      themes: dynamic (pipeline-based) and static data models. The articles were also 
+      categorized into health care use cases, including chronic diseases, COVID-19 and 
+      infectious diseases, cancer research, acute or intensive care, random and general 
+      medical notes, and other conditions. Furthermore, we summarized the important or 
+      common tools and approaches of the selected papers. These items included 
+      FHIR-based tools and frameworks, machine learning approaches, and data storage 
+      and security. The most common resource was "Observation" followed by "Condition" 
+      and "Patient." The limitations and challenges of developing data models were 
+      categorized based on the issues of data integration, interoperability, 
+      standardization, performance, and scalability or generalizability. CONCLUSIONS: 
+      FHIR serves as a highly promising interoperability standard for developing 
+      real-world health care apps. The implementation of FHIR modeling for electronic 
+      health record data facilitates the integration, transmission, and analysis of 
+      data while also advancing translational research and phenotyping. Generally, 
+      FHIR-based exports of local data repositories improve data interoperability for 
+      systems and data warehouses across different settings. However, ongoing efforts 
+      to address existing limitations and challenges are essential for the successful 
+      implementation and integration of FHIR data models.
+CI  - ©Parinaz Tabari, Gennaro Costagliola, Mattia De Rosa, Martin Boeker. Originally 
+      published in JMIR Medical Informatics (https://medinform.jmir.org), 24.09.2024.
+FAU - Tabari, Parinaz
+AU  - Tabari P
+AUID- ORCID: 0000-0002-6228-8711
+AD  - Department of Informatics, University of Salerno, Fisciano, Italy.
+FAU - Costagliola, Gennaro
+AU  - Costagliola G
+AUID- ORCID: 0000-0003-3816-7765
+AD  - Department of Informatics, University of Salerno, Fisciano, Italy.
+FAU - De Rosa, Mattia
+AU  - De Rosa M
+AUID- ORCID: 0000-0002-6922-5529
+AD  - Department of Informatics, University of Salerno, Fisciano, Italy.
+FAU - Boeker, Martin
+AU  - Boeker M
+AUID- ORCID: 0000-0003-2972-2042
+AD  - Institute for Artificial Intelligence and Informatics in Medicine, Medical Center 
+      rechts der Isar, School of Medicine and Health, Technical University of Munich, 
+      Munich, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Scoping Review
+DEP - 20240924
+PL  - Canada
+TA  - JMIR Med Inform
+JT  - JMIR medical informatics
+JID - 101645109
+SB  - IM
+MH  - Humans
+MH  - COVID-19/epidemiology
+MH  - *Health Information Interoperability
+PMC - PMC11472501
+OTO - NOTNLM
+OT  - FHIR
+OT  - Fast Healthcare Interoperability Resources
+OT  - PRISMA
+OT  - data model
+OT  - interoperability
+OT  - modeling
+COIS- Conflicts of Interest: None declared.
+EDAT- 2024/09/24 12:45
+MHDA- 2024/09/24 22:18
+PMCR- 2024/09/24
+CRDT- 2024/09/24 11:53
+PHST- 2024/03/17 00:00 [received]
+PHST- 2024/08/17 00:00 [accepted]
+PHST- 2024/07/28 00:00 [revised]
+PHST- 2024/09/24 22:18 [medline]
+PHST- 2024/09/24 12:45 [pubmed]
+PHST- 2024/09/24 11:53 [entrez]
+PHST- 2024/09/24 00:00 [pmc-release]
+AID - v12i1e58445 [pii]
+AID - 10.2196/58445 [doi]
+PST - epublish
+SO  - JMIR Med Inform. 2024 Sep 24;12:e58445. doi: 10.2196/58445.
+
+PMID- 34384198
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210827
+IS  - 2093-3681 (Print)
+IS  - 2093-369X (Electronic)
+IS  - 2093-3681 (Linking)
+VI  - 27
+IP  - 3
+DP  - 2021 Jul
+TI  - Strategy to Adopt and Deploy HL7 FHIR Standard for Healthcare Interoperability in 
+      Korea.
+PG  - 173-174
+LID - 10.4258/hir.2021.27.3.173 [doi]
+FAU - Bae, Sungchul
+AU  - Bae S
+AD  - Data Science Research Institute, Samsung Medical Center, Seoul, Korea.
+FAU - Kim, Il Kon
+AU  - Kim IK
+AD  - School of Computer Science and Engineering, Kyungpook National University, Daegu, 
+      Korea.
+FAU - Yi, Byoung-Kee
+AU  - Yi BK
+AD  - Data Science Research Institute, Samsung Medical Center, Seoul, Korea.
+AD  - Department of Digital Health, SAIHST, Sungkyunkwan University, Seoul, Korea.
+LA  - eng
+PT  - Editorial
+DEP - 20210731
+PL  - Korea (South)
+TA  - Healthc Inform Res
+JT  - Healthcare informatics research
+JID - 101534553
+PMC - PMC8369052
+EDAT- 2021/08/14 06:00
+MHDA- 2021/08/14 06:01
+PMCR- 2021/07/01
+CRDT- 2021/08/13 03:42
+PHST- 2021/08/13 03:42 [entrez]
+PHST- 2021/08/14 06:00 [pubmed]
+PHST- 2021/08/14 06:01 [medline]
+PHST- 2021/07/01 00:00 [pmc-release]
+AID - hir.2021.27.3.173 [pii]
+AID - hir-27-3-173 [pii]
+AID - 10.4258/hir.2021.27.3.173 [doi]
+PST - ppublish
+SO  - Healthc Inform Res. 2021 Jul;27(3):173-174. doi: 10.4258/hir.2021.27.3.173. Epub 
+      2021 Jul 31.
+
+PMID- 35852842
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220805
+IS  - 2291-9694 (Print)
+IS  - 2291-9694 (Electronic)
+IS  - 2291-9694 (Linking)
+VI  - 10
+IP  - 7
+DP  - 2022 Jul 19
+TI  - Fast Healthcare Interoperability Resources (FHIR) for Interoperability in Health 
+      Research: Systematic Review.
+PG  - e35724
+LID - 10.2196/35724 [doi]
+LID - e35724
+AB  - BACKGROUND: The standard Fast Healthcare Interoperability Resources (FHIR) is 
+      widely used in health information technology. However, its use as a standard for 
+      health research is still less prevalent. To use existing data sources more 
+      efficiently for health research, data interoperability becomes increasingly 
+      important. FHIR provides solutions by offering resource domains such as "Public 
+      Health & Research" and "Evidence-Based Medicine" while using already established 
+      web technologies. Therefore, FHIR could help standardize data across different 
+      data sources and improve interoperability in health research. OBJECTIVE: The aim 
+      of our study was to provide a systematic review of existing literature and 
+      determine the current state of FHIR implementations in health research and 
+      possible future directions. METHODS: We searched the PubMed/MEDLINE, Embase, Web 
+      of Science, IEEE Xplore, and Cochrane Library databases for studies published 
+      from 2011 to 2022. Studies investigating the use of FHIR in health research were 
+      included. Articles published before 2011, abstracts, reviews, editorials, and 
+      expert opinions were excluded. We followed the PRISMA (Preferred Reporting Items 
+      for Systematic Reviews and Meta-Analyses) guidelines and registered this study 
+      with PROSPERO (CRD42021235393). Data synthesis was done in tables and figures. 
+      RESULTS: We identified a total of 998 studies, of which 49 studies were eligible 
+      for inclusion. Of the 49 studies, most (73%, n=36) covered the domain of clinical 
+      research, whereas the remaining studies focused on public health or epidemiology 
+      (6%, n=3) or did not specify their research domain (20%, n=10). Studies used FHIR 
+      for data capture (29%, n=14), standardization of data (41%, n=20), analysis (12%, 
+      n=6), recruitment (14%, n=7), and consent management (4%, n=2). Most (55%, 27/49) 
+      of the studies had a generic approach, and 55% (12/22) of the studies focusing on 
+      specific medical specialties (infectious disease, genomics, oncology, 
+      environmental health, imaging, and pulmonary hypertension) reported their 
+      solutions to be conferrable to other use cases. Most (63%, 31/49) of the studies 
+      reported using additional data models or terminologies: Systematized Nomenclature 
+      of Medicine Clinical Terms (29%, n=14), Logical Observation Identifiers Names and 
+      Codes (37%, n=18), International Classification of Diseases 10th Revision (18%, 
+      n=9), Observational Medical Outcomes Partnership common data model (12%, n=6), 
+      and others (43%, n=21). Only 4 (8%) studies used a FHIR resource from the domain 
+      "Public Health & Research." Limitations using FHIR included the possible change 
+      in the content of FHIR resources, safety, legal matters, and the need for a FHIR 
+      server. CONCLUSIONS: Our review found that FHIR can be implemented in health 
+      research, and the areas of application are broad and generalizable in most use 
+      cases. The implementation of international terminologies was common, and other 
+      standards such as the Observational Medical Outcomes Partnership common data 
+      model could be used as a complement to FHIR. Limitations such as the change of 
+      FHIR content, lack of FHIR implementation, safety, and legal matters need to be 
+      addressed in future releases to expand the use of FHIR and, therefore, 
+      interoperability in health research.
+CI  - ©Carina Nina Vorisek, Moritz Lehne, Sophie Anne Ines Klopfenstein, Paula 
+      Josephine Mayer, Alexander Bartschke, Thomas Haese, Sylvia Thun. Originally 
+      published in JMIR Medical Informatics (https://medinform.jmir.org), 19.07.2022.
+FAU - Vorisek, Carina Nina
+AU  - Vorisek CN
+AUID- ORCID: 0000-0001-7499-8115
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Lehne, Moritz
+AU  - Lehne M
+AUID- ORCID: 0000-0001-8435-1374
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Klopfenstein, Sophie Anne Ines
+AU  - Klopfenstein SAI
+AUID- ORCID: 0000-0002-8470-2258
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+AD  - Institute for Medical Informatics, Charité - Universitätsmedizin Berlin, Berlin, 
+      Germany.
+FAU - Mayer, Paula Josephine
+AU  - Mayer PJ
+AUID- ORCID: 0000-0002-6441-5913
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Bartschke, Alexander
+AU  - Bartschke A
+AUID- ORCID: 0000-0002-5849-482X
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Haese, Thomas
+AU  - Haese T
+AUID- ORCID: 0000-0003-1997-0333
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+FAU - Thun, Sylvia
+AU  - Thun S
+AUID- ORCID: 0000-0002-3346-6806
+AD  - Core Facility Digital Medicine and Interoperability, Berlin Institute of Health 
+      at Charité - Universitätsmedizin Berlin, Berlin, Germany.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220719
+PL  - Canada
+TA  - JMIR Med Inform
+JT  - JMIR medical informatics
+JID - 101645109
+PMC - PMC9346559
+OTO - NOTNLM
+OT  - FHIR
+OT  - Fast Healthcare Interoperability Resources
+OT  - clinical research
+OT  - epidemiology
+OT  - health care
+OT  - health information technology
+OT  - health research
+OT  - interoperability
+OT  - public health
+OT  - research
+COIS- Conflicts of Interest: ST is the vice chair of Health Level Seven Deutschland. 
+      The remaining authors declare no other conflicts of interests.
+EDAT- 2022/07/20 06:00
+MHDA- 2022/07/20 06:01
+PMCR- 2022/07/19
+CRDT- 2022/07/19 11:53
+PHST- 2021/12/29 00:00 [received]
+PHST- 2022/05/18 00:00 [accepted]
+PHST- 2022/04/22 00:00 [revised]
+PHST- 2022/07/19 11:53 [entrez]
+PHST- 2022/07/20 06:00 [pubmed]
+PHST- 2022/07/20 06:01 [medline]
+PHST- 2022/07/19 00:00 [pmc-release]
+AID - v10i7e35724 [pii]
+AID - 10.2196/35724 [doi]
+PST - epublish
+SO  - JMIR Med Inform. 2022 Jul 19;10(7):e35724. doi: 10.2196/35724.
+
+PMID- 39204872
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240829
+LR  - 20240903
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 24
+IP  - 16
+DP  - 2024 Aug 10
+TI  - Musculoskeletal Disorder (MSD) Health Data Collection, Personalized Management 
+      and Exchange Using Fast Healthcare Interoperability Resources (FHIR).
+LID - 10.3390/s24165175 [doi]
+LID - 5175
+AB  - With the proliferation and growing complexity of healthcare systems emerges the 
+      challenge of implementing scalable and interoperable solutions to seamlessly 
+      integrate heterogenous data from sources such as wearables, electronic health 
+      records, and patient reports that can provide a comprehensive and personalized 
+      view of the patient's health. Lack of standardization hinders the coordination 
+      between systems and stakeholders, impacting continuity of care and patient 
+      outcomes. Common musculoskeletal conditions affect people of all ages and can 
+      have a significant impact on quality of life. With physical activity and 
+      rehabilitation, these conditions can be mitigated, promoting recovery and 
+      preventing recurrence. Proper management of patient data allows for clinical 
+      decision support, facilitating personalized interventions and a patient-centered 
+      approach. Fast Healthcare Interoperability Resources (FHIR) is a widely adopted 
+      standard that defines healthcare concepts with the objective of easing 
+      information exchange and enabling interoperability throughout the healthcare 
+      sector, reducing implementation complexity without losing information integrity. 
+      This article explores the literature that reviews the contemporary role of FHIR, 
+      approaching its functioning, benefits, and challenges, and presents a methodology 
+      for structuring several types of health and wellbeing data, that can be routinely 
+      collected as observations and then encapsulated in FHIR resources, to ensure 
+      interoperability across systems. These were developed considering health industry 
+      standard guidelines, technological specifications, and using the experience 
+      gained from the implementation in various study cases, within European 
+      health-related research projects, to assess its effectiveness in the exchange of 
+      patient data in existing healthcare systems towards improving musculoskeletal 
+      disorders (MSDs).
+FAU - Seixas-Lopes, Fabio A
+AU  - Seixas-Lopes FA
+AUID- ORCID: 0000-0001-6260-3286
+AD  - Centre of Technology and Systems (UNINOVA-CTS) and Associated Lab of Intelligent 
+      Systems (LASI), 2829-516 Caparica, Portugal.
+AD  - Department of Electrical and Computer Engineering, NOVA School of Science and 
+      Technology, NOVA University Lisbon, 2829-516 Caparica, Portugal.
+FAU - Lopes, Carlos
+AU  - Lopes C
+AUID- ORCID: 0000-0002-0972-7244
+AD  - Centre of Technology and Systems (UNINOVA-CTS) and Associated Lab of Intelligent 
+      Systems (LASI), 2829-516 Caparica, Portugal.
+FAU - Marques, Maria
+AU  - Marques M
+AD  - Centre of Technology and Systems (UNINOVA-CTS) and Associated Lab of Intelligent 
+      Systems (LASI), 2829-516 Caparica, Portugal.
+FAU - Agostinho, Carlos
+AU  - Agostinho C
+AUID- ORCID: 0000-0002-2884-776X
+AD  - Centre of Technology and Systems (UNINOVA-CTS) and Associated Lab of Intelligent 
+      Systems (LASI), 2829-516 Caparica, Portugal.
+FAU - Jardim-Goncalves, Ricardo
+AU  - Jardim-Goncalves R
+AUID- ORCID: 0000-0002-3703-6854
+AD  - Centre of Technology and Systems (UNINOVA-CTS) and Associated Lab of Intelligent 
+      Systems (LASI), 2829-516 Caparica, Portugal.
+AD  - Department of Electrical and Computer Engineering, NOVA School of Science and 
+      Technology, NOVA University Lisbon, 2829-516 Caparica, Portugal.
+LA  - eng
+GR  - 826117, 857172, 101016000/European Union/
+PT  - Journal Article
+PT  - Review
+DEP - 20240810
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Humans
+MH  - *Musculoskeletal Diseases/therapy
+MH  - *Electronic Health Records
+MH  - Data Collection
+MH  - Delivery of Health Care
+MH  - Precision Medicine/methods
+MH  - Quality of Life
+MH  - Wearable Electronic Devices
+PMC - PMC11360422
+OTO - NOTNLM
+OT  - FHIR
+OT  - MSD
+OT  - data collection
+OT  - electronic health records
+OT  - internet of things
+COIS- The authors declare no conflicts of interest. The funders had no role in the 
+      design of the study; in the collection, analyses, or interpretation of data; in 
+      the writing of the manuscript; or in the decision to publish the results.
+EDAT- 2024/08/31 09:46
+MHDA- 2024/09/01 16:21
+PMCR- 2024/08/10
+CRDT- 2024/08/29 01:31
+PHST- 2024/05/24 00:00 [received]
+PHST- 2024/07/21 00:00 [revised]
+PHST- 2024/08/02 00:00 [accepted]
+PHST- 2024/09/01 16:21 [medline]
+PHST- 2024/08/31 09:46 [pubmed]
+PHST- 2024/08/29 01:31 [entrez]
+PHST- 2024/08/10 00:00 [pmc-release]
+AID - s24165175 [pii]
+AID - sensors-24-05175 [pii]
+AID - 10.3390/s24165175 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2024 Aug 10;24(16):5175. doi: 10.3390/s24165175.
+
+PMID- 35632165
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220531
+LR  - 20240830
+IS  - 1424-8220 (Electronic)
+IS  - 1424-8220 (Linking)
+VI  - 22
+IP  - 10
+DP  - 2022 May 15
+TI  - HL7 FHIR with SNOMED-CT to Achieve Semantic and Structural Interoperability in 
+      Personal Health Data: A Proof-of-Concept Study.
+LID - 10.3390/s22103756 [doi]
+LID - 3756
+AB  - Heterogeneity is a problem in storing and exchanging data in a digital health 
+      information system (HIS) following semantic and structural integrity. The 
+      existing literature shows different methods to overcome this problem. Fast 
+      healthcare interoperable resources (FHIR) as a structural standard may explain 
+      other information models, (e.g., personal, physiological, and behavioral data 
+      from heterogeneous sources, such as activity sensors, questionnaires, and 
+      interviews) with semantic vocabularies, (e.g., Systematized Nomenclature of 
+      Medicine-Clinical Terms (SNOMED-CT)) to connect personal health data to an 
+      electronic health record (EHR). We design and develop an intuitive health 
+      coaching (eCoach) smartphone application to prove the concept. We combine HL7 
+      FHIR and SNOMED-CT vocabularies to exchange personal health data in JavaScript 
+      object notion (JSON). This study explores and analyzes our attempt to design and 
+      implement a structurally and logically compatible tethered personal health record 
+      (PHR) that allows bidirectional communication with an EHR. Our eCoach prototype 
+      implements most PHR-S FM functions as an interoperability quality standard. Its 
+      end-to-end (E2E) data are protected with a TSD (Services for Sensitive Data) 
+      security mechanism. We achieve 0% data loss and 0% unreliable performances during 
+      data transfer between PHR and EHR. Furthermore, this experimental study shows the 
+      effectiveness of FHIR modular resources toward flexible management of data 
+      components in the PHR (eCoach) prototype.
+FAU - Chatterjee, Ayan
+AU  - Chatterjee A
+AUID- ORCID: 0000-0003-0407-7702
+AD  - Department of Information and Communication Technology, Center for eHealth, 
+      University of Agder, 4630 Kristiansand, Norway.
+FAU - Pahari, Nibedita
+AU  - Pahari N
+AD  - Department of Software Development, Knowit As, 4836 Arendal, Norway.
+FAU - Prinz, Andreas
+AU  - Prinz A
+AUID- ORCID: 0000-0002-0646-2877
+AD  - Department of Information and Communication Technology, Center for eHealth, 
+      University of Agder, 4630 Kristiansand, Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20220515
+PL  - Switzerland
+TA  - Sensors (Basel)
+JT  - Sensors (Basel, Switzerland)
+JID - 101204366
+SB  - IM
+MH  - Electronic Health Records
+MH  - *Health Records, Personal
+MH  - Proof of Concept Study
+MH  - Semantics
+MH  - *Systematized Nomenclature of Medicine
+PMC - PMC9147872
+OTO - NOTNLM
+OT  - FHIR
+OT  - HL7
+OT  - PGHD
+OT  - PHR
+OT  - PHR-S FM
+OT  - SNOMED-CT
+OT  - TSD
+OT  - eCoach
+OT  - interoperability
+COIS- The authors declare no conflict of interest. This research is unique, original, 
+      and has not been published or submitted anywhere else.
+EDAT- 2022/05/29 06:00
+MHDA- 2022/06/01 06:00
+PMCR- 2022/05/15
+CRDT- 2022/05/28 01:42
+PHST- 2022/03/17 00:00 [received]
+PHST- 2022/05/10 00:00 [revised]
+PHST- 2022/05/13 00:00 [accepted]
+PHST- 2022/05/28 01:42 [entrez]
+PHST- 2022/05/29 06:00 [pubmed]
+PHST- 2022/06/01 06:00 [medline]
+PHST- 2022/05/15 00:00 [pmc-release]
+AID - s22103756 [pii]
+AID - sensors-22-03756 [pii]
+AID - 10.3390/s22103756 [doi]
+PST - epublish
+SO  - Sensors (Basel). 2022 May 15;22(10):3756. doi: 10.3390/s22103756.
+
+PMID- 35672966
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220609
+LR  - 20220609
+IS  - 1879-8365 (Electronic)
+IS  - 0926-9630 (Linking)
+VI  - 290
+DP  - 2022 Jun 6
+TI  - FHIR Based Interoperability of Medical Devices.
+PG  - 37-41
+LID - 10.3233/SHTI220027 [doi]
+AB  - Although FHIR has been designed to be easy to implement, it requires knowledge 
+      that is still hard to find. We aim to evaluate the use of FHIR in Portuguese 
+      projects for the integration of medical devices. Two projects were selected, 
+      including easyHealth4Covid (EH4C) and Chronic Diseases Management Platform 
+      (CDMP). The evolution of each project and the FHIR resources used were analyzed. 
+      11 different sensors of 5 companies were used in the sum of both projects. 
+      Previously, none of them used FHIR to integrate and the teams had little to no 
+      experience in doing so. The FHIR Observation resource was used for all. There is 
+      a general lack of knowledge of the FHIR standard and terminologies of most of the 
+      device companies involved in the projects.
+FAU - Monteiro, Sara Caçador
+AU  - Monteiro SC
+AD  - Department of Community Medicine, Information and Decision in Health (MEDCIDS), 
+      Faculty of Medicine, University of Porto, Porto, Portugal.
+FAU - Cruz Correia, Ricardo João
+AU  - Cruz Correia RJ
+AD  - Department of Community Medicine, Information and Decision in Health (MEDCIDS), 
+      Faculty of Medicine, University of Porto, Porto, Portugal.
+AD  - Center for Research in Health Technologies and Information Systems (CINTESIS), 
+      Faculty of Medicine, University of Porto, Porto, Portugal.
+LA  - eng
+PT  - Journal Article
+PL  - Netherlands
+TA  - Stud Health Technol Inform
+JT  - Studies in health technology and informatics
+JID - 9214582
+MH  - *Electronic Health Records
+MH  - *Health Level Seven
+OTO - NOTNLM
+OT  - HL7 FHIR
+OT  - Health Information Interoperability
+OT  - Medical Devices
+EDAT- 2022/06/09 06:00
+MHDA- 2022/06/10 06:00
+CRDT- 2022/06/08 01:51
+PHST- 2022/06/08 01:51 [entrez]
+PHST- 2022/06/09 06:00 [pubmed]
+PHST- 2022/06/10 06:00 [medline]
+AID - SHTI220027 [pii]
+AID - 10.3233/SHTI220027 [doi]
+PST - ppublish
+SO  - Stud Health Technol Inform. 2022 Jun 6;290:37-41. doi: 10.3233/SHTI220027.
